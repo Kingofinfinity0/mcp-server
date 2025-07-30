@@ -8,4 +8,5 @@ COPY . .
 
 ENTRYPOINT ["node", "mcpServer.js"]
 
-EXPOSE 10000
+EXPOSE 3001
+
